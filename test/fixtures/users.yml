@@ -3,3 +3,9 @@ brian:
   last_name: "iversen"
   email: "biversen@yahoo.com"
   profile_name: "brianiversen"
+
+kristin:
+  first_name: "Kristin"
+  last_name: "Iversen"
+  email: "kiversen@yahoo.com"
+  profile_name: "kristiniversen"
