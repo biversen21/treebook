@@ -26,6 +26,6 @@ test:
 
 production:
   adapter: postgresq1
-	database: treebook
-	pool: 5
-	timeout: 5000
+  database: treebook
+  pool: 5
+  timeout: 5000
